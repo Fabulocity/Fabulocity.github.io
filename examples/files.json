@@ -1,7 +1,19 @@
  {
 	"webgl": [
+<<<<<<< HEAD
+<<<<<<< HEAD
+		"webgl_fab_brenda1",
+		"webgl_animation_skinning_blending",
+		"webgl_animation_cloth",
+=======
 		"webgl_animation_cloth",
 		"webgl_animation_skinning_blending",
+>>>>>>> 32f24aba186c968ac7438f1bd1e00b507845af3f
+=======
+		"webgl_fab_brenda1",
+		"webgl_animation_skinning_blending",
+		"webgl_animation_cloth",
+>>>>>>> stupid
 		"webgl_animation_skinning_additive_blending",
 		"webgl_camera",
 		"webgl_camera_cinematic",
@@ -75,6 +87,11 @@
 		"webgl_materials_variations_toon",
 		"webgl_materials_video",
 		"webgl_materials_video_webcam"
+<<<<<<< HEAD
+<<<<<<< HEAD
+	]
+	
+=======
 	],
 	"webgl / nodes": [
 		"webgl_loader_nodes",
@@ -249,4 +266,9 @@
 		"webgl_pmrem_test",
 		"misc_uv_tests"
 	]
+>>>>>>> 32f24aba186c968ac7438f1bd1e00b507845af3f
+=======
+	]
+	
+>>>>>>> stupid
 }
